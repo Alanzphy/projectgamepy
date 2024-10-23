@@ -1,0 +1,14 @@
+venv/
+.env
+*.egg-info/
+__pycache__/
+*.py[cod]
+*.pyo
+*.DS_Store
+*.log
+*.pyc
+*.pyd
+respuestas_y_puntaje_comandos.xlsx
+~$respuestas_y_puntaje_comandos.xlsx
+keys.json
+testsfiles/
